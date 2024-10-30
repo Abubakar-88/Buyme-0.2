@@ -1,2 +1,2 @@
-# shopme
-Referential Project for Shopme eCommerce Application
+# Buyme
+Referential Project for Buyme eCommerce Application
