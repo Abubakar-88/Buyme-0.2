@@ -16,29 +16,29 @@ function voteReview(currentLink) {
 		}
 	}).done(function(voteResult) {
 		console.log(voteResult);
-		
+
 		if (voteResult.successful) {
 			$("#modalDialog").on("hide.bs.modal", function(e) {
 				updateVoteCountAndIcons(currentLink, voteResult);
 			});
 		}
-		
+
 		showModalDialog("Vote Review", voteResult.message);
-		
+
 	}).fail(function() {
 		showErrorModal("Error voting review.");
-	});	
+	});
 }
 
 function updateVoteCountAndIcons(currentLink, voteResult) {
 	reviewId = currentLink.attr("reviewId");
 	voteUpLink = $("#linkVoteUp-" + reviewId);
 	voteDownLink = $("#linkVoteDown-" + reviewId);
-	
+
 	$("#voteCount-" + reviewId).text(voteResult.voteCount + " Votes");
-	
+
 	message = voteResult.message;
-	
+
 	if (message.includes("successfully voted up")) {
 		highlightVoteUpIcon(currentLink, voteDownLink);
 	} else if (message.includes("successfully voted down")) {
@@ -64,10 +64,10 @@ function highlightVoteDownIcon(voteDownLink, voteUpLink) {
 
 function unhighlightVoteDownIcon(voteDownLink) {
 	voteDownLink.attr("title", "Vote down this review");
-	voteDownLink.removeClass("fas").addClass("far");	
+	voteDownLink.removeClass("fas").addClass("far");
 }
 
 function unhighlightVoteUpIcon(voteUpLink) {
 	voteUpLink.attr("title", "Vote up this review");
-	voteUpLink.removeClass("fas").addClass("far");	
+	voteUpLink.removeClass("fas").addClass("far");
 }
