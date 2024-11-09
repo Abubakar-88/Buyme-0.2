@@ -1,0 +1,17 @@
+
+e
+java:S1192A"HDefine a constant instead of duplicating this literal "product" 3 times.(³Ù×Ã8Ë…—®2
+e
+java:S1192W"HDefine a constant instead of duplicating this literal "message" 7 times.(ÍÄÕ´8Ì…—®2
+Q
+java:S1066U"/Merge this if statement with the enclosing one.(¶ãüÿÿÿÿÿ8Î…—®2
+R
+java:S1066˜"/Merge this if statement with the enclosing one.(¶ãüÿÿÿÿÿ8Ğ…—®2
+ƒ
+java:S6813"BRemove this field injection and use constructor injection instead.(¾ößçûÿÿÿÿJ$1aa61f6b-703f-484f-9f29-d78a312a9e14
+ƒ
+java:S6813 "BRemove this field injection and use constructor injection instead.(šÆÃ×ıÿÿÿÿJ$f0a355ef-07cb-4b4d-9ff8-1b6df8c6337e
+ƒ
+java:S6813!"BRemove this field injection and use constructor injection instead.(ñˆ¬çûÿÿÿÿJ$f1cd6ffb-f4a1-409d-8c3a-360f5d2eac0e
+\
+java:S4684J"@Replace this persistent entity with a simple POJO or DTO object.(§ß¡8ğ…—®2

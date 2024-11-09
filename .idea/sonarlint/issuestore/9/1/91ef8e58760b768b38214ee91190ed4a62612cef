@@ -1,0 +1,47 @@
+
+n
+java:S11928"SDefine a constant instead of duplicating this literal "redirect:/sections" 4 times.(Şèˆßûÿÿÿÿ
+c
+java:S11925"MDefine a constant instead of duplicating this literal "messageError" 4 times.(ıÓ”¨
+f
+java:S11920"PDefine a constant instead of duplicating this literal "The section ID " 8 times.(ºëÈñ
+j
+java:S11921"ODefine a constant instead of duplicating this literal "messageSuccess" 4 times.(ŠıÀ£úÿÿÿÿ
+r
+java:S2629""\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(‘İ¹Ù
+M
+java:S26290"7Use the built-in formatting to construct this argument.(ºëÈñ
+R
+java:S2629D"7Use the built-in formatting to construct this argument.(˜¯‰ëşÿÿÿÿ
+R
+java:S2629I"7Use the built-in formatting to construct this argument.(ºÃ¶øÿÿÿÿ
+R
+java:S2629K"7Use the built-in formatting to construct this argument.(ƒË›ùÿÿÿÿ
+R
+java:S2629^"7Use the built-in formatting to construct this argument.(•ÌÖˆüÿÿÿÿ
+R
+java:S2629q"7Use the built-in formatting to construct this argument.(€«›™ûÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+W
+java:S3457""AFormat specifiers should be used instead of string concatenation.(‘İ¹Ù
+W
+java:S34570"AFormat specifiers should be used instead of string concatenation.(ºëÈñ
+W
+java:S34574"AFormat specifiers should be used instead of string concatenation.(ş¤•
+\
+java:S3457D"AFormat specifiers should be used instead of string concatenation.(˜¯‰ëşÿÿÿÿ
+\
+java:S3457I"AFormat specifiers should be used instead of string concatenation.(ºÃ¶øÿÿÿÿ
+\
+java:S3457K"AFormat specifiers should be used instead of string concatenation.(ƒË›ùÿÿÿÿ
+W
+java:S3457O"AFormat specifiers should be used instead of string concatenation.(ç¥•
+\
+java:S3457^"AFormat specifiers should be used instead of string concatenation.(•ÌÖˆüÿÿÿÿ
+\
+java:S3457b"AFormat specifiers should be used instead of string concatenation.(İéŞùÿÿÿÿ
+\
+java:S3457q"AFormat specifiers should be used instead of string concatenation.(€«›™ûÿÿÿÿ
+\
+java:S3457u"AFormat specifiers should be used instead of string concatenation.( ‡èàıÿÿÿÿ

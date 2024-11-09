@@ -1,0 +1,99 @@
+
+¢
+java:S1192F"fDefine a constant instead of duplicating this literal "Could not find any menu item with ID " 4 times.(”ï™ÑJ$10bbdbf1-21cf-4a6b-abf5-041db3aeb11a
+‰
+java:S1192T"MDefine a constant instead of duplicating this literal "The menu ID " 3 times.(ŞĞ¹†J$43e15457-c861-4faf-8340-116ceb3f78ce
+Ÿ
+java:S2629&"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¸¦—8öÍÊ—®2J$622b5213-5c96-4b47-a5a5-f57bd0c15db1
+¤
+java:S2629("\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¡íãúÿÿÿÿ8öÍÊ—®2J$5f8cd9ed-aa63-4070-aaa6-11e05df6add1
+s
+java:S26298"7Use the built-in formatting to construct this argument.(»ÅÙJ$f0964cd2-e1c5-43f0-baaf-ef26fb72d29c
+s
+java:S2629F"7Use the built-in formatting to construct this argument.(”ï™ÑJ$39c9e4f2-4982-43f9-b26f-f904a9d4cf1c
+Ÿ
+java:S2629K"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(åŠÔÊ8øÍÊ—®2J$e62b52aa-a7cf-42ef-9c2e-0268fb60b563
+¤
+java:S2629N"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ò¯şëÿÿÿÿÿ8øÍÊ—®2J$6bcefa5a-82ce-4e08-8441-14ff0cba4695
+s
+java:S2629Q"7Use the built-in formatting to construct this argument.(ç˜Ü¬J$79b8e721-8c46-4457-9036-297cd68eb12c
+s
+java:S2629T"7Use the built-in formatting to construct this argument.(ŞĞ¹†J$8e08b422-884c-469a-a66b-b4aba1ba7f33
+s
+java:S2629Z"7Use the built-in formatting to construct this argument.(ˆğİÊJ$4a2967fc-63ee-4910-97c9-e28f0f500133
+¤
+java:S2629]"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ø°ÛËúÿÿÿÿ8ùÍÊ—®2J$d4410b61-3e65-4934-a021-1759b59f8111
+x
+java:S2629_"7Use the built-in formatting to construct this argument.(Á¨é²ÿÿÿÿÿJ$ed375ded-dabb-4a0f-b58f-b4c126f862ff
+x
+java:S2629d"7Use the built-in formatting to construct this argument.(ÂÔá˜úÿÿÿÿJ$f829ae23-d3a0-4ffa-beec-f0f3e9e6a18a
+s
+java:S2629t"7Use the built-in formatting to construct this argument.(Œ¼ğæJ$c37febe8-f6e7-4041-87a0-f34ac271f2e9
+¤
+java:S2629y"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ø éÔÿÿÿÿÿ8úÍÊ—®2J$442f7d37-e825-4f2e-8260-1db03a923257
+¤
+java:S2629|"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¥Öîşÿÿÿÿ8ûÍÊ—®2J$00bd0a84-9503-4e10-bbc4-ed421ee9af9b
+r
+java:S2629"7Use the built-in formatting to construct this argument.(òïÙ!J$80bbf129-fd42-40fd-92c7-7dfbfd8cbcfc
+ 
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÕÖÊ½8üÍÊ—®2J$78d9d7ee-ebd2-4876-b72d-f4723dc09f12
+t
+java:S2629‰"7Use the built-in formatting to construct this argument.(Ä©ŠøJ$cfc07e37-a000-4df7-b9f1-bd6a6d9165e0
+ 
+java:S2629Œ"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¦…¹õ8üÍÊ—®2J$b7510a87-2829-40fd-b33f-16f7032199f7
+t
+java:S2629"7Use the built-in formatting to construct this argument.(êº”J$6809d4e9-dbaf-41d1-828d-7c95329104fd
+y
+java:S2629“"7Use the built-in formatting to construct this argument.(ºï‰éûÿÿÿÿJ$651e9d51-9487-4ec4-b0ce-6222dcf46da0
+{
+java:S1118":Add a private constructor to hide the implicit public one.(şçˆûÿÿÿÿJ$5f941080-c015-45fa-a381-8f070669c296
+ƒ
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ù¯±m8ÎÊ—®2J$bcea0c61-2d46-49dc-9837-5d90e4ed8138
+ƒ
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ù¯±m8‘ÎÊ—®2J$fb491b40-7e2c-4908-8d1a-25106a00ab79
+‰
+java:S3457"AFormat specifiers should be used instead of string concatenation.(äå˜©ûÿÿÿÿ8’ÎÊ—®2J$f2a5d0d6-2211-4cee-969a-585ef973241e
+‹
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(úáÂû8”ÎÊ—®2J$1b7c78ab-c18e-4857-ab38-335a1d79b26d
+„
+java:S3457&"AFormat specifiers should be used instead of string concatenation.(¸¦—8–ÎÊ—®2J$34dffe33-41a4-4e5f-9f5a-5cd05ed9c10c
+‰
+java:S3457("AFormat specifiers should be used instead of string concatenation.(¡íãúÿÿÿÿ8—ÎÊ—®2J$983195ea-5119-4cf8-b2c1-bb2386116f55
+}
+java:S34578"AFormat specifiers should be used instead of string concatenation.(»ÅÙJ$b1b4723f-407d-4fd7-a084-40df9de725d6
+}
+java:S3457F"AFormat specifiers should be used instead of string concatenation.(”ï™ÑJ$ea5e7afe-58e5-4e28-9d28-68172dfc4024
+„
+java:S3457K"AFormat specifiers should be used instead of string concatenation.(åŠÔÊ8ÎÊ—®2J$6f057e81-a2b4-4020-a619-301929da8dfd
+‰
+java:S3457N"AFormat specifiers should be used instead of string concatenation.(ò¯şëÿÿÿÿÿ8ŸÎÊ—®2J$3c8a5a42-3453-486c-9c13-06367cfdba49
+}
+java:S3457Q"AFormat specifiers should be used instead of string concatenation.(ç˜Ü¬J$29e61c71-4ee6-41ff-a34b-f4facf638cc6
+}
+java:S3457T"AFormat specifiers should be used instead of string concatenation.(ŞĞ¹†J$a5021f95-1b5e-4112-bc16-775848f5b315
+}
+java:S3457Z"AFormat specifiers should be used instead of string concatenation.(ˆğİÊJ$e8a0ac0e-3ab1-489b-91c4-c87c877c84dd
+‰
+java:S3457]"AFormat specifiers should be used instead of string concatenation.(Ø°ÛËúÿÿÿÿ8¢ÎÊ—®2J$22f74cdb-f45f-47ac-8d37-59e260df1caf
+‚
+java:S3457_"AFormat specifiers should be used instead of string concatenation.(Á¨é²ÿÿÿÿÿJ$c38f76fc-ebde-4fdd-b9b7-88e503c29dc0
+‚
+java:S3457d"AFormat specifiers should be used instead of string concatenation.(ÂÔá˜úÿÿÿÿJ$6f423218-048e-478f-805f-f3d00a57aed3
+}
+java:S3457t"AFormat specifiers should be used instead of string concatenation.(Œ¼ğæJ$9c0bf8f4-e206-460d-a7c4-c963deff7c40
+‰
+java:S3457y"AFormat specifiers should be used instead of string concatenation.(Ø éÔÿÿÿÿÿ8©ÎÊ—®2J$c958032f-c871-4bf6-b3dd-563952e71c3e
+‰
+java:S3457|"AFormat specifiers should be used instead of string concatenation.(¥Öîşÿÿÿÿ8ªÎÊ—®2J$a727997f-07e0-4714-925b-5380260defee
+|
+java:S3457"AFormat specifiers should be used instead of string concatenation.(òïÙ!J$800a4fe4-a62c-46e6-9066-9b435dce1f49
+…
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ÕÖÊ½8«ÎÊ—®2J$1a5a28b0-a0fd-4779-8ac9-8a8b8d2084db
+~
+java:S3457‰"AFormat specifiers should be used instead of string concatenation.(Ä©ŠøJ$4c2122d2-5c42-4774-be2b-7316f68edca1
+…
+java:S3457Œ"AFormat specifiers should be used instead of string concatenation.(¦…¹õ8­ÎÊ—®2J$ade98136-2ddc-45e2-9220-6f9f98137d3b
+~
+java:S3457"AFormat specifiers should be used instead of string concatenation.(êº”J$63fe106e-73a7-4f85-b8cf-4b79c821020c
+ƒ
+java:S3457“"AFormat specifiers should be used instead of string concatenation.(ºï‰éûÿÿÿÿJ$32e765ad-81d3-4889-9b40-08713ed27738

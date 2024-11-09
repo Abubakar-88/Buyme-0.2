@@ -1,0 +1,15 @@
+
+c
+java:S11927"HDefine a constant instead of duplicating this literal "Shipper" 3 times.(£›‚¢ýÿÿÿÿ
+b
+java:S1192-"GDefine a constant instead of duplicating this literal "Admin" 11 times.(¡â÷Æøÿÿÿÿ
+b
+java:S1192/"GDefine a constant instead of duplicating this literal "Editor" 6 times.(ûžÝ³ûÿÿÿÿ
+g
+java:S1192-"LDefine a constant instead of duplicating this literal "Salesperson" 6 times.(¡â÷Æøÿÿÿÿ
+U
+java:S1161":Add the "@Override" annotation above this method signature(ò—Þëýÿÿÿÿ
+ž
+java:S4601<"‚Reorder the URL patterns from most to less specific, the pattern "/products/detail/**" should occurs before "/products/detail/**".(¯÷ùòüÿÿÿÿ
+7
+java:S1116L"Remove this empty statement.(Åñ­õþÿÿÿÿ

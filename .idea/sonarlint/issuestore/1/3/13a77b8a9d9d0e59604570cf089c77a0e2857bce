@@ -1,0 +1,11 @@
+
+…
+java:S2095%"DUse try-with-resources or close this "Stream" in a "finally" clause.(óÒ³½úÿÿÿÿJ$f5b88205-e1fc-49b2-9abe-08f0be629f29
+{
+java:S1118":Add a private constructor to hide the implicit public one.(®ñŒ¾ùÿÿÿÿJ$6ea5550a-e939-4a56-8398-5ed72e23d2a8
+}
+java:S3457*"AFormat specifiers should be used instead of string concatenation.(ö¯â†J$05ac9289-9be7-4be5-b43c-50d7a1fa9f71
+‚
+java:S3457/"AFormat specifiers should be used instead of string concatenation.(ž‡Ã‘ýÿÿÿÿJ$8ad4d659-4b0c-4428-9980-3b5c933a0f41
+}
+java:S34579"AFormat specifiers should be used instead of string concatenation.(ªß·¬J$b8b1b112-410d-4fa6-9d49-59affa4ddf9c

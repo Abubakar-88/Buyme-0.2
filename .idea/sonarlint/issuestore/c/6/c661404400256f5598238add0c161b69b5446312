@@ -1,0 +1,18 @@
+
+F
+java:S1604Ê"(Make this anonymous inner class a lambda(‡ÏíÇ8ñŞí–®2
+>
+java:S1643c"Use a StringBuilder instead.(¹¹Èüÿÿÿÿ8ôŞí–®2
+?
+java:S1643–"Use a StringBuilder instead.(¹¹Èüÿÿÿÿ8ôŞí–®2
+Y
+java:S4973·"<Strings and Boxed types should be compared using "equals()".(…¦¿`8øŞí–®2
+Z
+java:S4973¼"<Strings and Boxed types should be compared using "equals()".(ÍÉè×8ùŞí–®2
+s
+java:S3655¢"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ñ«šÓıÿÿÿÿ8ä‘ğı°2
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$7fbb1002-2412-41ae-8382-6eeae90c3bbb
+[
+java:S1155>">Use isEmpty() to check whether the collection is empty or not.(ƒñ‰8Åßí–®2
+Y	java:S125ë"<This block of commented-out lines of code should be removed.(ñÅĞè8æßí–®2

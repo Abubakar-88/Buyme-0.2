@@ -1,0 +1,13 @@
+
+d
+java:S6813"BRemove this field injection and use constructor injection instead.(Ö¬ÃÑúÿÿÿÿ8Ö¸»—®2
+]	java:S125"<This block of commented-out lines of code should be removed.(²¹Âðþÿÿÿÿ8Þ¸»—®2
+X	java:S125;"<This block of commented-out lines of code should be removed.(Œ«±¹8â¸»—®2
+G	java:S106B"+Replace this use of System.out by a logger.(‹£˜˜8ä¸»—®2
+n
+java:S3457I"Q%n should be used in place of \n to produce the platform-specific line separator.(¢´Î8æ¸»—®2
+G	java:S106I"+Replace this use of System.out by a logger.(¢´Î8æ¸»—®2
+V
+java:S1144@"4Remove this unused private "printReportData" method.(Ï¼ûùÿÿÿÿ8ï¸»—®2
+N
+java:S1144G"1Remove this unused private "printRawData" method.(€ëä¥8ï¸»—®2

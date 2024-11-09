@@ -1,0 +1,9 @@
+
+x
+java:S49738"<Strings and Boxed types should be compared using "equals()".(™Ì“J$603c3c51-ab7a-410b-9105-04aecac86643
+r
+java:S3655!"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ñ«šÓıÿÿÿÿ8äù©®2
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$2b8d0ec5-f2c0-4076-9462-b56815709f61
+I
+java:S1905"'Remove this unnecessary cast to "List".(ÔûÈ—úÿÿÿÿ8óù©®2

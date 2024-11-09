@@ -1,0 +1,23 @@
+
+r
+java:S2629)"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ä‰£´
+q
+java:S2629."\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(òò
+r
+java:S2629<"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ï‹Ö
+M
+java:S2629="7Use the built-in formatting to construct this argument.(Äîïå
+N
+java:S2589?"8Remove this expression which always evaluates to "false"(–†–É
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+W
+java:S3457)"AFormat specifiers should be used instead of string concatenation.(Ä‰£´
+V
+java:S3457."AFormat specifiers should be used instead of string concatenation.(òò
+W
+java:S3457<"AFormat specifiers should be used instead of string concatenation.(Ï‹Ö
+W
+java:S3457="AFormat specifiers should be used instead of string concatenation.(Äîïå

@@ -1,0 +1,11 @@
+
+k
+java:S3655:"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(İÌÎøÿÿÿÿ
+e
+java:S3655N"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(·š¹
+k
+java:S3655V"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(«€šøúÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(Øşäë
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(Âº»
