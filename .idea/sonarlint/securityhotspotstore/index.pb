@@ -325,3 +325,12 @@ ZBuymeWebParent/BuymeBackEnd/src/main/java/com/buyme/admin/customer/CustomerCont
 ZBuymeWebParent/BuymeBackEnd/src/main/java/com/buyme/admin/customer/CustomerRepository.java,d\7\d7391073f1bed0c2b33a59894a9bd899bd98d099
 Ž
 ^BuymeWebParent/BuymeBackEnd/src/main/java/com/buyme/admin/customer/CustomerRestController.java,9\6\9602ada28f8b18739f5f35247f1088af90faa0b8
+:
+
+Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
+B
+Dockerfile-backend,8\6\8651d5c18544c03b0296b0ae89ad67149033daaa
+C
+Dockerfile-frontend,9\e\9efdc68cf64646352f3138ded336dcfd76b2e493
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a

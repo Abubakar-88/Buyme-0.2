@@ -1,0 +1,15 @@
+# Use an official OpenJDK runtime as a parent image
+FROM openjdk:17-jdk-slim
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Copy the backend JAR file to the container
+# Adjust the path based on where your backend JAR is located
+COPY BuymeWebParent/BuymeBackEnd/target/BuymeBackEnd-0.0.1-SNAPSHOT.jar app.jar
+
+# Expose the backend port (e.g., 8081)
+EXPOSE 8081
+
+# Run the backend application
+ENTRYPOINT ["java", "-jar", "app.jar"]
