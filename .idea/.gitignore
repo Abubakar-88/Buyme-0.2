@@ -1,3 +1,5 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/target/
+!target/buyme-0.0.1-SNAPSHOT.jar
