@@ -1,0 +1,12 @@
+
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(¨ĞàÉ
+V
+java:S1854C";Remove this useless assignment to local variable "message".(¶÷´ÿÿÿÿÿ
+V
+java:S1854F";Remove this useless assignment to local variable "message".(„–˜àşÿÿÿÿ
+Q
+java:S1854I";Remove this useless assignment to local variable "message".(Íìù©
+a	java:S128H"LEnd this switch case with an unconditional break, return or throw statement.(Õèû¬
+a	java:S128E"LEnd this switch case with an unconditional break, return or throw statement.(¼ª¨“
+a	java:S128B"LEnd this switch case with an unconditional break, return or throw statement.( —ü×

@@ -1,0 +1,20 @@
+
+†
+java:S1192^"JDefine a constant instead of duplicating this literal "pageTitle" 3 times.(³ñ¸ïJ$f2ee0811-a0d1-42d4-bfcf-6b65bacffd93
+]
+java:S2184R"@Cast one of the operands of this addition operation to a "long".(°Ú„Ï8Øû±¼°2
+c
+java:S2184™"@Cast one of the operands of this addition operation to a "long".(øÑ”ãüÿÿÿÿ8Ùû±¼°2
+ƒ
+java:S6813"BRemove this field injection and use constructor injection instead.(¾ößçûÿÿÿÿJ$74b899b8-27e8-4dba-bec4-5391daebf91a
+ƒ
+java:S6813 "BRemove this field injection and use constructor injection instead.(ñˆ¬çûÿÿÿÿJ$e8ef810d-aa77-4532-9198-7eade2098fb2
+~
+java:S6813!"BRemove this field injection and use constructor injection instead.(¹™¸µJ$4673e6be-135d-4660-afd5-9eaabfeacf89
+ƒ
+java:S6813""BRemove this field injection and use constructor injection instead.(Ã‡¿­ûÿÿÿÿJ$89ce77d8-2aff-4683-a11c-fd1808677288
+~
+java:S6813#"BRemove this field injection and use constructor injection instead.(ŸË†J$1cfe9f1f-961c-4c4c-b3f7-9670a3cd8f22
+ƒ
+java:S6813$"BRemove this field injection and use constructor injection instead.(”·£úıÿÿÿÿJ$36274249-6223-4283-a8c3-0af70fb2eb9a
+w	java:S125@"<This block of commented-out lines of code should be removed.(ç«›âJ$23cc909b-0eaa-4d5d-a694-e64efe8da191

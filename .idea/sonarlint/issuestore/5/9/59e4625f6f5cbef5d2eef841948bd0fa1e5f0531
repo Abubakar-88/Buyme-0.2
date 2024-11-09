@@ -1,0 +1,12 @@
+
+w
+java:S2629D"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¼€Œâùÿÿÿÿ
+w
+java:S2629H"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(§Ä­èÿÿÿÿÿ
+@	java:S1068"+Replace this use of System.out by a logger.(Ñ¢ª
+\
+java:S3457D"AFormat specifiers should be used instead of string concatenation.(¼€Œâùÿÿÿÿ
+\
+java:S3457H"AFormat specifiers should be used instead of string concatenation.(§Ä­èÿÿÿÿÿ
+W
+java:S3457S"AFormat specifiers should be used instead of string concatenation.(¬Â×

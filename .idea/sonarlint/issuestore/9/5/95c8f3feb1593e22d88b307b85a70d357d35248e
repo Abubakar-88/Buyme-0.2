@@ -1,0 +1,13 @@
+
+l
+java:S2259†"IA "NullPointerException" could be thrown; "userDetails" is nullable here.(§ãŒºÿÿÿÿÿ8ö£ø»°2
+ƒ
+java:S6813 "BRemove this field injection and use constructor injection instead.(“‰â»ÿÿÿÿÿJ$7c21b400-1147-4939-899e-4a6e7c776a38
+~
+java:S6813!"BRemove this field injection and use constructor injection instead.(¨ĞàÉJ$84e0089c-b6f9-45d4-bdde-7b6c2e54a493
+
+java:S4684/"@Replace this persistent entity with a simple POJO or DTO object.(øöŒÓøÿÿÿÿJ$9c6845b9-8ce9-4a75-a912-950edb893f4b
+k	java:S106S"+Replace this use of System.out by a logger.( ×÷ŒúÿÿÿÿJ$a30d1768-4744-49b3-b031-629bdbde566e
+k	java:S106T"+Replace this use of System.out by a logger.(Æ”ÈîüÿÿÿÿJ$ba916819-0468-4be4-950e-cca95686f8b6
+
+java:S4684k"@Replace this persistent entity with a simple POJO or DTO object.(ù¤ĞØüÿÿÿÿJ$f75212e6-e55e-4a2e-8450-9a69d43ddc66

@@ -1,0 +1,42 @@
+
+…
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÚôÌ–®2J$574e0649-fa86-40b3-a065-0f8be0357cf1
+†
+java:S1128"CRemove this unused import 'com.buyme.admin.article.ArticleService'.(íìÅ8Æ”œ®2J$ae735c8c-e35e-4752-96bf-a8c60bf2b4e8
+‹
+java:S1128"HRemove this unused import 'com.buyme.admin.category.CategoryRepository'.(Ñ¬º¼8‚Æ”œ®2J$e1a9bf52-da52-4395-8e93-d0a2d165fb25
+ˆ
+java:S1128"ERemove this unused import 'com.buyme.admin.category.CategoryService'.(½ˆˆ—8‚Æ”œ®2J$a5118aea-dfcd-4547-b797-91033111b356
+ˆ
+java:S1128"ERemove this unused import 'com.buyme.admin.customer.CustomerService'.(ñ É‘8‚Æ”œ®2J$214ce696-6789-42b0-8bb8-7e9d45205a5b
+ˆ
+java:S1128	"@Remove this unused import 'com.buyme.admin.menu.MenuRepository'.(ÌŞªüûÿÿÿÿ8‚Æ”œ®2J$635580e2-85b8-42f4-bcec-79737df8708c
+€
+java:S1128
+"=Remove this unused import 'com.buyme.admin.menu.MenuService'.(æáÊó8‚Æ”œ®2J$4b4c3f8e-7c8c-4eeb-891a-f3d1bca52020
+Š
+java:S1128"BRemove this unused import 'com.buyme.admin.order.OrderRepository'.(ôı£Ôşÿÿÿÿ8‚Æ”œ®2J$92d4f438-15bd-4330-b2e9-0e7a4717495a
+‡
+java:S1128"?Remove this unused import 'com.buyme.admin.order.OrderService'.(¡‹Óøÿÿÿÿ8‚Æ”œ®2J$2f061f33-123a-4102-a369-88a15d5c6f00
+
+java:S1128"FRemove this unused import 'com.buyme.admin.product.ProductRepository'.(Î‹Óışÿÿÿÿ8ƒÆ”œ®2J$3075c162-8cf6-4667-b7cb-082bb63ca41e
+†
+java:S1128"CRemove this unused import 'com.buyme.admin.product.ProductService'.(¥éÉ³8ƒÆ”œ®2J$037e2758-df3f-4f2e-974a-2baa6c491015
+
+java:S1128"HRemove this unused import 'com.buyme.admin.question.QuestionRepository'.(½¯¿¶øÿÿÿÿ8ƒÆ”œ®2J$7f09d5fe-ce3f-4e32-a288-9c89ad0047f4
+
+java:S1128"ERemove this unused import 'com.buyme.admin.question.QuestionService'.(öÒÎÇûÿÿÿÿ8ƒÆ”œ®2J$e044cde0-a3b8-4a71-8486-cc91eb343d54
+†
+java:S1128"DRemove this unused import 'com.buyme.admin.review.ReviewRepository'.(¦†²8ƒÆ”œ®2J$cc26f573-0be2-461f-b87f-b2e7fdae7903
+‰
+java:S1128"ARemove this unused import 'com.buyme.admin.review.ReviewService'.(èç¹Öøÿÿÿÿ8ƒÆ”œ®2J$5c906384-cbd3-4ece-b9b0-3ef897913220
+ˆ
+java:S1128"FRemove this unused import 'com.buyme.admin.setting.SettingRepository'.(²ûÁ<8ƒÆ”œ®2J$aa9e2466-076b-4d3f-895b-ef81ffcfe856
+
+java:S1128"MRemove this unused import 'com.buyme.admin.shippingrate.ShippingRateService'.(”Øâ¨8ƒÆ”œ®2J$10490e0e-aef8-464c-ad98-4221e9cdde51
+ƒ
+java:S1128"@Remove this unused import 'com.buyme.admin.user.UserRepository'.(Ó—¢Õ8„Æ”œ®2J$7e8e18a1-98ca-46a9-bbeb-8ea98d7ee9c1
+…
+java:S1128"=Remove this unused import 'com.buyme.admin.user.UserService'.(ığÚ„ıÿÿÿÿ8„Æ”œ®2J$d7847d80-3fe9-4b3d-8a95-728da7bebc53
+‘
+java:S1128"IRemove this unused import 'com.buyme.admin.repository.ArticleRepository'.(ËÏ„çÿÿÿÿÿ8„Æ”œ®2J$d91fb116-08d8-432e-82c8-7bac3d502bf8

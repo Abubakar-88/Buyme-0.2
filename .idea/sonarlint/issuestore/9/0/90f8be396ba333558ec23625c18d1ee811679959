@@ -1,0 +1,15 @@
+
+]
+java:S1192M"GDefine a constant instead of duplicating this literal "review" 3 times.(û¿
+e
+java:S1192b"JDefine a constant instead of duplicating this literal "error/404" 3 times.(’¤µˆûÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(¹™¸µ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(ŸË†
+]
+java:S6813"BRemove this field injection and use constructor injection instead.(¾ößçûÿÿÿÿ
+]
+java:S6813 "BRemove this field injection and use constructor injection instead.(Ã‡¿­ûÿÿÿÿ
+W
+java:S4684¯"@Replace this persistent entity with a simple POJO or DTO object.(ÉÓ˜

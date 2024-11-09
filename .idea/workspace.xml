@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1322602-d439-43eb-9e10-c306554575b1" name="Changes" comment="" />
+    <list default="true" id="c1322602-d439-43eb-9e10-c306554575b1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,10 +23,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Enum" />
         <option value="Class" />
         <option value="Interface" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -74,38 +78,58 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "abs-buyme",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "C:/Users/siddi/Ecommerce-Dev/buyme",
+    "last_opened_file_path": "C:/Users/siddi/Ecommerce-Dev/buyme/BuymeWebParent/BuymeFrontEnd/src/main/resources/static/js",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.40689656",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "build.tools",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\siddi\Ecommerce-Dev\shopme\ShopmeWebParent\ShopmeBackEnd\src\main\resources\templates\dashboard" />
-      <recent name="C:\Users\siddi\Ecommerce-Dev\shopme\ShopmeWebParent\ShopmeBackEnd\src\main\resources\templates" />
-      <recent name="C:\Users\siddi\Ecommerce-Dev\shopme\ShopmeCommon\src\main\java\com\shopme\common\entity" />
-      <recent name="C:\Users\siddi\Ecommerce-Dev\shopme\ShopmeWebParent\ShopmeFrontEnd\src\main\resources\templates" />
-      <recent name="C:\Users\siddi\Ecommerce-Dev\shopme\ShopmeWebParent\ShopmeBackEnd\src\main\resources\static\js" />
+      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeFrontEnd\src\main\resources\static\js" />
+      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeBackEnd\src\main\resources\templates" />
+      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeBackEnd\src\main\resources\static\richtext" />
+      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeBackEnd\src\main\resources\static" />
+      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\siddi\Ecommerce-Dev\shopme\ShopmeWebParent\ShopmeBackEnd\src\main\resources\static\images" />
-      <recent name="C:\Users\siddi\Ecommerce-Dev\shopme\ShopmeWebParent\ShopmeFrontEnd\src\main\resources\static\rating-star" />
+      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent" />
+      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeBackEnd" />
+      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeBackEnd\src\main\resources\static" />
+      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeBackEnd\src\main\resources\static\richtext" />
+      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeBackEnd\src\main\java\com\buyme\admin\dashboard" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.buyme.admin.order" />
+      <recent name="com.buyme.admin.security" />
+      <recent name="com.buyme.admin.review" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.buyme.admin.order" />
+      <recent name="com.buyme.admin.order.orderRestController" />
+      <recent name="com.buyme.admin.user" />
       <recent name="com.shopme.admin.setting" />
       <recent name="com.shopme.common.exception" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.BuymeBackEndApplication">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BuymeFrontEndApplication (2)">
     <configuration name="ArrayMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayMissingNumber" />
       <module name="JavaCoding" />
@@ -126,6 +150,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="Buyme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ProductRepositoryTests.testListAllProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ShopmeBackEnd" />
       <extension name="coverage">
@@ -138,6 +182,75 @@
       <option name="MAIN_CLASS_NAME" value="com.buyme.admin.product.ProductRepositoryTests" />
       <option name="METHOD_NAME" value="testListAllProducts" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Buyme" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Buyme" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="Buyme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Buyme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="Buyme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BuymeBackEndApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="BuymeBackEnd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Buyme.admin.BuymeBackEndApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,40 +269,87 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuymeFrontEndApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="BuymeFrontEndApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="BuymeFrontEnd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.Buyme.BuymeFrontEndApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuymeFrontEndApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="BuymeFrontEnd" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.buyme.BuymeFrontEndApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.buyme.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShopmeBackEndApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration name="ShopmeBackEndApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="BuymeBackEnd" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.buyme.admin.ShopmeBackEndApplication" />
+      <module name="ShopmeBackEnd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopme.admin.ShopmeBackEndApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShopmeFrontEndApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration name="ShopmeFrontEndApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="BuymeFrontEnd" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.buyme.ShopmeFrontEndApplication" />
+      <module name="ShopmeFrontEnd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopme.ShopmeFrontEndApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Buyme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Buyme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Buyme" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.BuymeBackEndApplication" />
-        <item itemvalue="Spring Boot.BuymeFrontEndApplication" />
         <item itemvalue="Application.ShopmeBackEndApplication" />
         <item itemvalue="Application.ArrayMissingNumber" />
         <item itemvalue="JUnit.ProductRepositoryTests.testListAllProducts" />
@@ -206,6 +366,11 @@
       <updated>1670328403161</updated>
       <workItem from="1730194737740" duration="18136000" />
       <workItem from="1730263138497" duration="8458000" />
+      <workItem from="1730291440952" duration="3837000" />
+      <workItem from="1730299090505" duration="2657000" />
+      <workItem from="1730301898933" duration="20877000" />
+      <workItem from="1730388032162" duration="22972000" />
+      <workItem from="1730970608780" duration="27000000" />
     </task>
     <servers />
   </component>

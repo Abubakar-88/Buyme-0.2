@@ -1,0 +1,11 @@
+
+‹
+java:S1192H"HDefine a constant instead of duplicating this literal "message" 4 times.(ê·ãÄ8©²Æ‘®2J$c8ecd423-93a2-42c6-996c-428b778e7ede
+Ø
+java:S4449;"Annotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(ëßøÿÿÿÿ8Áş÷©®2J$2e495705-4c24-4612-b8cf-d026c43e9703
+Š
+java:S6813"BRemove this field injection and use constructor injection instead.(šÆÃ×ıÿÿÿÿ8üÈÆ‘®2J$2978283c-674a-4786-8e74-83eee8fd7735
+Š
+java:S6813"BRemove this field injection and use constructor injection instead.(ñˆ¬çûÿÿÿÿ8ıÈÆ‘®2J$8886d1bd-9b8e-494d-bc08-c335ceb5ed42
+ƒ
+java:S46848"@Replace this persistent entity with a simple POJO or DTO object.(àûºù8˜ËÆ‘®2J$efa2037f-3032-4a73-8152-f03e9c5d1515

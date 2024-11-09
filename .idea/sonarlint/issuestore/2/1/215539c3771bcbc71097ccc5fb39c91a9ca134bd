@@ -1,0 +1,17 @@
+
+t
+java:S1192"RDefine a constant instead of duplicating this literal "./product-images/" 3 times.(­’¦ùÿÿÿÿ8™‚…—®2
+f
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(óÒ³½úÿÿÿÿ8²„…—®2
+Ñ
+java:S4449k"Annotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(ëßøÿÿÿÿJ$ae90e3f7-f751-4168-ab42-4300c2c6fc08
+Ì
+java:S4449w"Annotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(öÓ™ÔJ$8d26913a-678e-42b2-884f-5772ae241cb4
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ßúêÑ8É„…—®2
+c
+java:S3457!"AFormat specifiers should be used instead of string concatenation.(²Š‘Öıÿÿÿÿ8Ñ„…—®2
+^
+java:S3457$"AFormat specifiers should be used instead of string concatenation.(İù«È8Ñ„…—®2
+c
+java:S3457*"AFormat specifiers should be used instead of string concatenation.(‡Ã‘ıÿÿÿÿ8Ò„…—®2

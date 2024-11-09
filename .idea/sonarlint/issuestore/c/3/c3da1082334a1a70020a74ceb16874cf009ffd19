@@ -1,0 +1,25 @@
+
+r
+java:S26291"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¢«„—
+r
+java:S26292"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(íš”€
+r
+java:S2629U"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(–‰˜ü
+w
+java:S2629V"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¥Ž ´ûÿÿÿÿ
+R
+java:S2629W"7Use the built-in formatting to construct this argument.(‚ËŸ”ùÿÿÿÿ
+W
+java:S34571"AFormat specifiers should be used instead of string concatenation.(¢«„—
+W
+java:S34572"AFormat specifiers should be used instead of string concatenation.(íš”€
+V
+java:S4684="@Replace this persistent entity with a simple POJO or DTO object.(î¼ â
+W
+java:S3457U"AFormat specifiers should be used instead of string concatenation.(–‰˜ü
+\
+java:S3457V"AFormat specifiers should be used instead of string concatenation.(¥Ž ´ûÿÿÿÿ
+\
+java:S3457W"AFormat specifiers should be used instead of string concatenation.(‚ËŸ”ùÿÿÿÿ
+V
+java:S3457a"AFormat specifiers should be used instead of string concatenation.(¼“þr

@@ -1,0 +1,61 @@
+
+g
+java:S1192Œ"PDefine a constant instead of duplicating this literal "The article ID " 4 times.(µñô
+c
+java:S1192|"MDefine a constant instead of duplicating this literal "messageError" 3 times.(ıÓ”¨
+c
+java:S1192<"HDefine a constant instead of duplicating this literal "article" 3 times.(óÌ–úÿÿÿÿ
+e
+java:S1192D"ODefine a constant instead of duplicating this literal "messageSuccess" 4 times.(²õø
+M
+java:S2629u"7Use the built-in formatting to construct this argument.(ÊûÇí
+S
+java:S2629‡"7Use the built-in formatting to construct this argument.(ç…ÂŞúÿÿÿÿ
+N
+java:S2629Œ"7Use the built-in formatting to construct this argument.(µñô
+N
+java:S2629›"7Use the built-in formatting to construct this argument.(ë‚©ˆ
+N
+java:S2629œ"7Use the built-in formatting to construct this argument.(§âçš
+S
+java:S2629¡"7Use the built-in formatting to construct this argument.(¯ÑÂßıÿÿÿÿ
+N
+java:S2629§"7Use the built-in formatting to construct this argument.(û“Íª
+S
+java:S2629©"7Use the built-in formatting to construct this argument.(î»ÒÅúÿÿÿÿ
+å
+java:S1598"ÎThis file "ArticleController.java" should be located in "com\buyme\admin\controller" directory, not in "C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeBackEnd\src\main\java\com\buyme\admin\article".(ÀÀ®
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+\
+java:S3457:"AFormat specifiers should be used instead of string concatenation.(¶Çî¼şÿÿÿÿ
+W
+java:S3457B"AFormat specifiers should be used instead of string concatenation.(î§ìÙ
+V
+java:S4684W"@Replace this persistent entity with a simple POJO or DTO object.(áíı«
+\
+java:S3457^"AFormat specifiers should be used instead of string concatenation.(ÈˆÄõÿÿÿÿÿ
+\
+java:S3457r"AFormat specifiers should be used instead of string concatenation.(ç•ƒ»øÿÿÿÿ
+W
+java:S3457u"AFormat specifiers should be used instead of string concatenation.(ÊûÇí
+\
+java:S3457{"AFormat specifiers should be used instead of string concatenation.(Ã³Üøÿÿÿÿ
+]
+java:S3457‡"AFormat specifiers should be used instead of string concatenation.(ç…ÂŞúÿÿÿÿ
+X
+java:S3457Œ"AFormat specifiers should be used instead of string concatenation.(µñô
+X
+java:S3457"AFormat specifiers should be used instead of string concatenation.(´éÓ¿
+X
+java:S3457›"AFormat specifiers should be used instead of string concatenation.(ë‚©ˆ
+X
+java:S3457œ"AFormat specifiers should be used instead of string concatenation.(§âçš
+]
+java:S3457¡"AFormat specifiers should be used instead of string concatenation.(¯ÑÂßıÿÿÿÿ
+X
+java:S3457§"AFormat specifiers should be used instead of string concatenation.(û“Íª
+]
+java:S3457©"AFormat specifiers should be used instead of string concatenation.(î»ÒÅúÿÿÿÿ
+X
+java:S3457­"AFormat specifiers should be used instead of string concatenation.(àÕ›ó

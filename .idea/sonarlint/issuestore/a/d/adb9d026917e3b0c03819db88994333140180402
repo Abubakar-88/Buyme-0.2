@@ -1,0 +1,13 @@
+
+^
+java:S4973`"<Strings and Boxed types should be compared using "equals()".(¾¾Š“ıÿÿÿÿ8çû„—®2
+N
+java:S1153$"1Directly append the argument of String.valueOf().(¼Ô¯ˆ8éû„—®2
+N
+java:S1153+"1Directly append the argument of String.valueOf().(¼Ô¯ˆ8êû„—®2
+d
+java:S6813"BRemove this field injection and use constructor injection instead.(¬£Çıÿÿÿÿ8óû„—®2
+j
+java:S5361B"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¡Ó½Ïùÿÿÿÿ8Œü„—®2
+j
+java:S5361E"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Áş´œşÿÿÿÿ8ü„—®2

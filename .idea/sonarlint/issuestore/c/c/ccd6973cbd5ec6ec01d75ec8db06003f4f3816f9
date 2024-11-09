@@ -1,0 +1,19 @@
+
+r
+java:S2629 "\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(«Œä¢
+r
+java:S2629@"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Êóû¾
+R
+java:S2629D"7Use the built-in formatting to construct this argument.(–²ß¿þÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+W
+java:S3457 "AFormat specifiers should be used instead of string concatenation.(«Œä¢
+U
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(ÌÓªf
+W
+java:S3457@"AFormat specifiers should be used instead of string concatenation.(Êóû¾
+\
+java:S3457D"AFormat specifiers should be used instead of string concatenation.(–²ß¿þÿÿÿÿ
+W
+java:S3457L"AFormat specifiers should be used instead of string concatenation.(ÿÔµ¡

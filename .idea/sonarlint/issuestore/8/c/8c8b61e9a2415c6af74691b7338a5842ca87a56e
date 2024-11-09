@@ -1,0 +1,17 @@
+
+‰
+java:S1192Y"HDefine a constant instead of duplicating this literal "message" 5 times.(Şâ½ÿÿÿÿÿJ$05a4a873-f1ab-4714-937f-949981014c23
+~
+java:S6813%"BRemove this field injection and use constructor injection instead.(Œª¨­J$2b6282ee-1c20-4426-8605-5e6fcd7f6cc9
+~
+java:S6813&"BRemove this field injection and use constructor injection instead.(¨ĞàÉJ$4932d440-5021-4da5-b03b-e2e71a3fa8e7
+]
+java:S1116b"Remove this empty statement.(şä°ÂúÿÿÿÿJ$32f96a8e-a4ef-4540-ba82-f88944f4bc93
+}
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(¥àİJ$e318ba51-03fb-470a-a135-e4387ecc2703
+l	java:S106º"+Replace this use of System.out by a logger.(©­Ë²ùÿÿÿÿJ$c89e680a-5222-4441-809e-3a4c350466d8
+l	java:S106»"+Replace this use of System.out by a logger.(›÷ÁáşÿÿÿÿJ$507975fa-e9b1-482c-91dc-ade6320aa580
+l	java:S106¼"+Replace this use of System.out by a logger.(¢úÛ‰şÿÿÿÿJ$dacd4e22-e259-4bf9-b75c-818e89bfcb1a
+g	java:S106½"+Replace this use of System.out by a logger.(æ©…ƒJ$4b5598c7-77bb-41ad-866a-3a7ab9a81207
+g	java:S106¾"+Replace this use of System.out by a logger.(Œõ—‚J$23a61634-6398-4a0c-b304-4e3776986ab2
+l	java:S106¿"+Replace this use of System.out by a logger.(ü³¿ĞøÿÿÿÿJ$5d91bf3a-d0cf-42fc-b3ff-4b0eff6a8a2c

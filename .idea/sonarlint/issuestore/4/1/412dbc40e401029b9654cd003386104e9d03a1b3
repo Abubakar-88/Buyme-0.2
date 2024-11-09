@@ -1,0 +1,17 @@
+
+„
+java:S4973c"<Strings and Boxed types should be compared using "equals()".(İÿ‡İúÿÿÿÿ8ÉÎš®2J$6942f999-a5ef-4466-bc3d-b050937b5978
+˜
+java:S3655m"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(„Ì¥¥ÿÿÿÿÿ8µÉÎš®2J$3614bfb1-5f4a-43e1-9ca6-cec7c716859c
+˜
+java:S36553"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÜŸ¯Öÿÿÿÿÿ8µÉÎš®2J$f7c90bac-54b4-4ab3-a5fe-e87ddb8e381a
+˜
+java:S3655C"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(´ö€‡ûÿÿÿÿ8µÉÎš®2J$21b6d212-e582-48c4-99f9-52138f63554f
+y
+java:S2589a"7Remove this expression which always evaluates to "true"(±ÙÇ8¶ÉÎš®2J$3446d5f2-b98b-4fdd-80f9-afade55a837e
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$03dcb8b7-4972-4bf8-a58b-97f555155cec
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$5119d176-f957-4955-907a-e9a02cf6608d
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$19396a94-2bd4-4b5b-9c88-f2810858f474
