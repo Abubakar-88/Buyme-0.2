@@ -15,7 +15,7 @@ services:
       dockerfile: Dockerfile-frontend
     image: buyme-frontend
     ports:
-      - "80:8080"
+      - "80:80"
     depends_on:
       - backend
     environment:
