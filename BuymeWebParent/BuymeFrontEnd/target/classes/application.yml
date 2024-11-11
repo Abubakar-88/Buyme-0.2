@@ -4,9 +4,9 @@ server:
     context-path: /Buyme
 spring:
   datasource:
-    password: root
-    url: jdbc:mysql://localhost:3306/shopmedb
-    username: root
+    password: buYme09#@!$
+    url: jdbc:mysql://srv995.hstgr.io:3306/u611910731_buyme?useSSL=true&useUnicode=yes&characterEncoding=UTF-8&allowPublicKeyRetrieval=true&serverTimezone=UTC&enabledTLSProtocols=TLSv1.2
+    username: u611910731_buyme09
   jpa:
     hibernate:
       ddl-auto: update

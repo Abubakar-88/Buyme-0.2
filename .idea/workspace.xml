@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1322602-d439-43eb-9e10-c306554575b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuymeWebParent/BuymeBackEnd/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/BuymeWebParent/BuymeBackEnd/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuymeWebParent/BuymeFrontEnd/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/BuymeWebParent/BuymeFrontEnd/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuymeWebParent/BuymeFrontEnd/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/BuymeWebParent/BuymeFrontEnd/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "abs-buyme",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "C:/Users/siddi/Ecommerce-Dev/buyme/BuymeWebParent/BuymeFrontEnd/src/main/resources/static/js",
+    "last_opened_file_path": "C:/Users/siddi/Nursery-Backend/springBootEcommerceAPI",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -371,6 +373,7 @@
       <workItem from="1730301898933" duration="20877000" />
       <workItem from="1730388032162" duration="22972000" />
       <workItem from="1730970608780" duration="27000000" />
+      <workItem from="1731155653438" duration="11894000" />
     </task>
     <servers />
   </component>
