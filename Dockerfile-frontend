@@ -9,7 +9,7 @@ WORKDIR /app
 COPY BuymeWebParent/BuymeFrontEnd/target/BuymeFrontEnd-0.0.1-SNAPSHOT.jar app.jar
 
 # Expose the frontend port (e.g., 8080)
-EXPOSE 8080
+EXPOSE 80
 
 # Run the frontend application
 ENTRYPOINT ["java", "-jar", "app.jar"]
