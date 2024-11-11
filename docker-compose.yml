@@ -7,13 +7,16 @@ services:
     image: buyme-backend
     ports:
       - "8081:8081"
-
+    environment:
+      SPRING_PROFILES_ACTIVE: prod
   frontend:
     build:
       context: .
       dockerfile: Dockerfile-frontend
     image: buyme-frontend
     ports:
-      - "8080:8080"
+      - "80:8080"
     depends_on:
       - backend
+    environment:
+      SPRING_PROFILES_ACTIVE: prod
