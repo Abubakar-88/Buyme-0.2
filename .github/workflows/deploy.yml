@@ -18,7 +18,7 @@ jobs:
       - name: Setup SSH
         uses: webfactory/ssh-agent@v0.5.3
         with:
-          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+          ssh-private-key: ${{ secrets.BUYME_SECRET_KEY }}
       # Debug Step: Check if SSH key is loaded
       - name: Check if SSH key is loaded
         run: |
