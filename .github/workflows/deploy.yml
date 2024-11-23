@@ -1,0 +1,33 @@
+name: Deploy to Server
+
+on:
+  push:
+    branches:
+      - main  # Change this to your deployment branch if needed
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the repository
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      # Step 2: Set up SSH
+      - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.5.3
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      # Step 3: Deploy to the server
+      - name: Deploy to Server
+        run: |
+          ssh -o StrictHostKeyChecking=no root@88.222.242.153 << 'EOF'
+            cd /root/Buyme-0.2
+            git reset --hard
+            git pull origin main
+            docker-compose down
+            docker-compose build
+            docker-compose up -d
+          EOF
