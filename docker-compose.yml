@@ -5,6 +5,13 @@ services:
       context: .
       dockerfile: Dockerfile-backend
     image: buyme-backend
+    volumes:
+      # Map host directories to container directories
+      - ./brand-logos:/root/Buyme-0.2/brand-logos
+      - ./category-images:/root/Buyme-0.2/category-images
+      - ./product-images:/root/Buyme-0.2/product-images
+      - ./site-logo:/root/Buyme-0.2/site-logo
+      - ./user-photos:/root/Buyme-0.2/user-photos
     ports:
       - "8081:8081"
     environment:

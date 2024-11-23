@@ -16,23 +16,17 @@ public class MvcConfig implements WebMvcConfigurer {
 
 	@Override
 	public void addResourceHandlers(ResourceHandlerRegistry registry) {
-		exposeDirectory("user-photos", registry);
-		exposeDirectory("category-images", registry);
-		exposeDirectory("brand-logos", registry);
-		exposeDirectory("product-images", registry);
-		exposeDirectory("site-logo", registry);
-	}
-	
-	private void exposeDirectory(String pathPattern, ResourceHandlerRegistry registry) {
-		Path path = Paths.get(pathPattern);
-		String absolutePath = path.toFile().getAbsolutePath();
-		
-		String logicalPath = pathPattern.replace("./", "") + "/**";
-				
-		registry.addResourceHandler(logicalPath)
-			.addResourceLocations("file:/" + absolutePath + "/");		
+		exposeDirectory("/root/Buyme-0.2/user-photos", "user-photos", registry);
+		exposeDirectory("/root/Buyme-0.2/category-images", "category-images", registry);
+		exposeDirectory("/root/Buyme-0.2/brand-logos", "brand-logos", registry);
+		exposeDirectory("/root/Buyme-0.2/product-images", "product-images", registry);
+		exposeDirectory("/root/Buyme-0.2/site-logo", "site-logo", registry);
 	}
 
+	private void exposeDirectory(String absolutePath, String logicalName, ResourceHandlerRegistry registry) {
+		registry.addResourceHandler("/" + logicalName + "/**")
+				.addResourceLocations("file:" + absolutePath + "/");
+	}
 	@Override
 	public void addArgumentResolvers(List<HandlerMethodArgumentResolver> resolvers) {
 		resolvers.add(new PagingAndSortingArgumentResolver());
