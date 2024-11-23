@@ -19,7 +19,10 @@ jobs:
         uses: webfactory/ssh-agent@v0.5.3
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-
+      # Debug Step: Check if SSH key is loaded
+      - name: Check if SSH key is loaded
+        run: |
+          ssh-add -l
       # Step 3: Deploy to the server
       - name: Deploy to Server
         run: |

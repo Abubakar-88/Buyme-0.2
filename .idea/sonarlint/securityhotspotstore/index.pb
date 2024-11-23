@@ -325,9 +325,6 @@ ZBuymeWebParent/BuymeBackEnd/src/main/java/com/buyme/admin/customer/CustomerCont
 ZBuymeWebParent/BuymeBackEnd/src/main/java/com/buyme/admin/customer/CustomerRepository.java,d\7\d7391073f1bed0c2b33a59894a9bd899bd98d099
 é
 ^BuymeWebParent/BuymeBackEnd/src/main/java/com/buyme/admin/customer/CustomerRestController.java,9\6\9602ada28f8b18739f5f35247f1088af90faa0b8
-:
-
-Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
 B
 Dockerfile-backend,8\6\8651d5c18544c03b0296b0ae89ad67149033daaa
 C
@@ -336,5 +333,7 @@ B
 docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
 ç
 ]BuymeWebParent/BuymeBackEnd/src/test/java/com/buyme/admin/product/ProductRepositoryTests.java,8\a\8acfa61ab8740cad974812c575ea076008be5a42
-á
-WBuymeWebParent/BuymeBackEnd/src/test/java/com/buyme/admin/menu/MenuRepositoryTests.java,c\6\c61e7d2f6219bd63e001fd56f96e700afd789774
+L
+.github/workflows/deploy.yml,f\1\f130ad0d1d16d0d70ec30d355f736ae3784b05cf
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
