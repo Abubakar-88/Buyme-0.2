@@ -76,10 +76,12 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 					;
 			http.headers().frameOptions().sameOrigin();
 	}
-
 	@Override
-	public void configure(WebSecurity web) throws Exception {
-		web.ignoring().antMatchers("/images/**", "/js/**", "/webjars/**");
+	public void configure(WebSecurity web)  {
+		web.ignoring()
+				.antMatchers("/category-images/**", "/user-photos/**", "/brand-logos/**",
+						"/product-images/**", "/site-logo/**",
+						"/images/**", "/js/**", "/webjars/**");
 	}
 
 	
