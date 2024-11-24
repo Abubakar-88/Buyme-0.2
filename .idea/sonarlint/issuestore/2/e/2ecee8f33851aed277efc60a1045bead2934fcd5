@@ -1,15 +1,15 @@
 
 —
-java:S1192<"ODefine a constant instead of duplicating this literal "listCategories" 3 times.(Áğ£¨ıÿÿÿÿ8¡Ø¥°°2J$98285238-6ef2-4220-8a29-58747ac3e0c1
+java:S1192<"ODefine a constant instead of duplicating this literal "listCategories" 3 times.(Áğ£¨ıÿÿÿÿ8¡Ø¥°°2J$96fd8512-2f9e-4f96-9b5b-300a9dfab2fd
 
-java:S1192_"HDefine a constant instead of duplicating this literal "message" 5 times.(Ùª„üÿÿÿÿ8¢Ø¥°°2J$7eff92ba-1807-4d1f-966b-020539943a7c
+java:S1192_"HDefine a constant instead of duplicating this literal "message" 5 times.(Ùª„üÿÿÿÿ8¢Ø¥°°2J$a1b09a28-ab93-4a9c-ae22-d33f3be6131e
 ˜
-java:S1192`"UDefine a constant instead of duplicating this literal "redirect:/categories" 4 times.(ßÅú8¢Ø¥°°2J$7125c8a1-136b-4c1a-b93e-9ccd4f4bc038
+java:S1192`"UDefine a constant instead of duplicating this literal "redirect:/categories" 4 times.(ßÅú8¢Ø¥°°2J$5b54840e-7bf3-43c6-89f5-2a9e889f25b1
 ˆ
-java:S2184+"@Cast one of the operands of this addition operation to a "long".(İÎ¨íÿÿÿÿÿ8¤Ø¥°°2J$9eec8786-1af1-4450-bc4c-629426a8977d
+java:S2184+"@Cast one of the operands of this addition operation to a "long".(İÎ¨íÿÿÿÿÿ8¤Ø¥°°2J$e927c813-3b48-4bc7-8b57-3a9ecd740d92
 Ø
-java:S4449S"Annotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(ëßøÿÿÿÿ8¤Ô¦°°2J$948cd76f-32fe-4c80-a704-22c18682b262
+java:S4449S"Annotate the parameter with @javax.annotation.Nullable in method 'cleanPath' declaration, or make sure that null can not be passed as argument.(ëßøÿÿÿÿ8¤Ô¦°°2J$457d79e4-5d7a-48b8-94dd-9819e8efcd95
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ıÙ¥°°2J$aa4f8d4e-241c-43ba-86fa-eaf408889e41
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ıÙ¥°°2J$d4c7d84a-b2cf-42bd-8b05-fd9c634f1680
 ˆ
-java:S4684O"@Replace this persistent entity with a simple POJO or DTO object.(’¡³şÿÿÿÿ8‹Ú¥°°2J$57196462-a708-4087-8e72-c0c3753c6e3a
+java:S4684O"@Replace this persistent entity with a simple POJO or DTO object.(’¡³şÿÿÿÿ8‹Ú¥°°2J$d982cfde-4218-405c-86c6-0e27b0c3920c
