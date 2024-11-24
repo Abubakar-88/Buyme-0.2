@@ -1,15 +1,13 @@
 
 ‰
-java:S11927"HDefine a constant instead of duplicating this literal "Shipper" 3 times.(£›‚¢ıÿÿÿÿJ$1203b666-c753-4f8e-a80b-72bf9bc85b2d
+java:S11927"HDefine a constant instead of duplicating this literal "Shipper" 3 times.(£›‚¢ıÿÿÿÿJ$3065f70f-e823-491c-9297-d46aa0fe086f
 ˆ
-java:S1192-"GDefine a constant instead of duplicating this literal "Admin" 11 times.(¡â÷ÆøÿÿÿÿJ$855e037e-b8f9-473b-a472-130bce593911
+java:S1192-"GDefine a constant instead of duplicating this literal "Admin" 11 times.(¡â÷ÆøÿÿÿÿJ$81045c68-da9f-4e1e-bd69-2090667c004f
 ˆ
-java:S1192/"GDefine a constant instead of duplicating this literal "Editor" 6 times.(ûİ³ûÿÿÿÿJ$6ebeca4a-7cff-4990-8e8b-a87de646e4bf
+java:S1192/"GDefine a constant instead of duplicating this literal "Editor" 6 times.(ûİ³ûÿÿÿÿJ$19d5d066-eaba-40cc-b27b-97bcd6ae04aa
 
-java:S1192-"LDefine a constant instead of duplicating this literal "Salesperson" 6 times.(¡â÷ÆøÿÿÿÿJ$bce460c5-337b-4ff3-a924-7fc660fdf065
+java:S1192-"LDefine a constant instead of duplicating this literal "Salesperson" 6 times.(¡â÷ÆøÿÿÿÿJ$6f0b349e-6c26-4c7a-bb02-dcaf1cb61c9b
 {
-java:S1161":Add the "@Override" annotation above this method signature(ò—ŞëıÿÿÿÿJ$f54699b9-8ee2-4c36-bedb-e552f91b0ab0
+java:S1161":Add the "@Override" annotation above this method signature(ò—ŞëıÿÿÿÿJ$9666576f-9251-4d0a-b459-b1c267fb6b08
 Ä
-java:S4601<"‚Reorder the URL patterns from most to less specific, the pattern "/products/detail/**" should occurs before "/products/detail/**".(¯÷ùòüÿÿÿÿJ$f61976f7-ab99-4d77-afb1-6e2680d300fd
-]
-java:S1116L"Remove this empty statement.(Åñ­õşÿÿÿÿJ$e1df94e5-8fda-46e5-8fff-47c6328d0350
+java:S4601<"‚Reorder the URL patterns from most to less specific, the pattern "/products/detail/**" should occurs before "/products/detail/**".(¯÷ùòüÿÿÿÿJ$1912e80f-559e-4aa2-a969-a7b4b526a40b
