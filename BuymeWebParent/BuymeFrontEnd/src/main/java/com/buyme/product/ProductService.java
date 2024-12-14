@@ -53,16 +53,5 @@ public class ProductService {
 
 		return repo.listByBrand(brandId, pageable);
 	}
-//	public List<Product> getAllProducts() {
-//		return repo.findAll();
-//	}
-//
-//	public List<Product> getProductsByBrands(List<String> brands) {
-//		return repo.findByBrand(String.valueOf(brands));
-//	}
-//
-//	public List<String> getAllBrands() {
-//		List<String> brandList = repo.findDistinctBrands();
-//		return brandList;
-//	}
+
 }

@@ -1,10 +1,9 @@
 
  
-java:S1488'"_Immediately return this expression instead of assigning it to the temporary variable "product".(òğöûÿÿÿÿJ$9e69f708-91a6-4277-9916-c429889b5b93
+java:S1488'"_Immediately return this expression instead of assigning it to the temporary variable "product".(òğöûÿÿÿÿJ$4aa53ce1-46a4-4d4a-9335-e7dcc5aca5c4
 m
-java:S1153"1Directly append the argument of String.valueOf().(¼Ô¯ˆJ$fb0b9e48-df53-4fd3-81c6-0083b7992f94
+java:S1153"1Directly append the argument of String.valueOf().(¼Ô¯ˆJ$7f928f53-5b02-49eb-84cc-007ddbc4ee3f
 ˜
-java:S3655'"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(òğöûÿÿÿÿ8ç¤Ä»°2J$02808fc7-737b-4af0-88f7-8ceaf732d929
+java:S3655'"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(òğöûÿÿÿÿ8ç¤Ä»°2J$80b1f4ba-83ec-4327-aa99-a419579a961c
 ƒ
-java:S6813"BRemove this field injection and use constructor injection instead.(¬£ÇıÿÿÿÿJ$6faa1cf1-d15e-4b3d-aa41-3f2ba83cbe66
-|	java:S1258"<This block of commented-out lines of code should be removed.(ı§ÃşÿÿÿÿJ$0613f2a6-73cc-40b8-bd49-ad3bdbc56077
+java:S6813"BRemove this field injection and use constructor injection instead.(¬£ÇıÿÿÿÿJ$48c30595-bf83-4567-8940-af612dad167e

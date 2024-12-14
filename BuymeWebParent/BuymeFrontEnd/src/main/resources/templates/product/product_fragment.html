@@ -3,8 +3,11 @@
 <body>
 <div th:fragment="content" >
 	<div>
+<!--		@{${product.mainImagePath}}-->
 		<a th:href="@{${product.URI}}">
-			<img th:src="@{${product.mainImagePath}}" width="200" />
+			<img th:src="@{${product.mainImagePath}}"
+				 onerror="this.src='/images/image-thumbnail.png'"
+				 alt="[[${product.shortName}]]" width="200" />
 			<br/>
 			<b>[[${product.shortName}]]</b>
 		</a>
