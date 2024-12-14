@@ -252,13 +252,20 @@ public class Product extends IdBasedEntity {
 	public void addExtraImage(String imageName) {
 		this.images.add(new ProductImage(imageName, this));
 	}
-
 	@Transient
 	public String getMainImagePath() {
-		if (id == null || mainImage == null) return "/images/image-thumbnail.png";
-
-		return "/product-images/" + this.id + "/" + this.mainImage;
+		String path = (id == null || mainImage == null)
+				? "/images/image-thumbnail.png"
+				: "/product-images/" + this.id + "/" + this.mainImage;
+		System.out.println("Image Path: " + path);
+		return path;
 	}
+//	@Transient
+//	public String getMainImagePath() {
+//		if (id == null || mainImage == null) return "/images/image-thumbnail.png";
+//
+//		return "/product-images/" + this.id + "/" + this.mainImage;
+//	}
 
 	public List<ProductDetail> getDetails() {
 		return details;
