@@ -61,16 +61,6 @@ public class ProductController {
 									 @PathVariable("pageNum") int pageNum,
 									 Model model, @RequestParam(name = "brand", required = false) List<String> brands) {
 
-//		List<String> brandList = productService.getAllBrands();
-//		List<Product> productList;
-//		if (brands == null || brands.isEmpty()) {
-//			productList = productService.getAllProducts();
-//		} else {
-//			productList = productService.getProductsByBrands(brands);
-//		}
-//		model.addAttribute("brands", brandList);
-//		model.addAttribute("products", productList);
-//		model.addAttribute("selectedBrands", brands);
 
 		try {
 			Category category = categoryService.getCategory(alias);

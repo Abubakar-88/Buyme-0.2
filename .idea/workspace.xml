@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1322602-d439-43eb-9e10-c306554575b1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c92bed38d16469c0acf2e77642b12bc884a09fd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4c92bed38d16469c0acf2e77642b12bc884a09fd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7c9ac7741c71b1423c1f25e04190fbab2261e89" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7c9ac7741c71b1423c1f25e04190fbab2261e89" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuymeWebParent/BuymeFrontEnd/src/main/java/com/buyme/product/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/BuymeWebParent/BuymeFrontEnd/src/main/java/com/buyme/product/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuymeWebParent/BuymeFrontEnd/src/main/java/com/buyme/product/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/BuymeWebParent/BuymeFrontEnd/src/main/java/com/buyme/product/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuymeWebParent/BuymeFrontEnd/src/main/resources/templates/product/product_fragment.html" beforeDir="false" afterPath="$PROJECT_DIR$/BuymeWebParent/BuymeFrontEnd/src/main/resources/templates/product/product_fragment.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +85,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "abs-buyme",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "C:/Users/siddi/Ecommerce-Dev/buyme/BuymeWebParent/BuymeBackEnd/src/main/resources/static/images",
+    "last_opened_file_path": "C:/Users/siddi/Ecommerce-Dev/buyme/BuymeWebParent/BuymeFrontEnd",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -95,11 +101,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeFrontEnd" />
+      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeFrontEnd\src\main\resources" />
+      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeFrontEnd\src\main\resources\static" />
       <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeBackEnd\src\main\resources\static\images" />
       <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeFrontEnd\src\main\resources\static\images" />
-      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\site-logo" />
-      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeFrontEnd\src\main\resources\static\js" />
-      <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent\BuymeBackEnd\src\main\resources\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\siddi\Ecommerce-Dev\buyme\BuymeWebParent" />
@@ -375,6 +381,7 @@
       <workItem from="1731776423920" duration="71000" />
       <workItem from="1732071323352" duration="2127000" />
       <workItem from="1732342511566" duration="21175000" />
+      <workItem from="1734155808177" duration="1765000" />
     </task>
     <servers />
   </component>

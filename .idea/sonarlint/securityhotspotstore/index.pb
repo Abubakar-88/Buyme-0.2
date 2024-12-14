@@ -337,3 +337,9 @@ L
 .github/workflows/deploy.yml,f\1\f130ad0d1d16d0d70ec30d355f736ae3784b05cf
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+s
+CBuymeWebParent/BuymeFrontEnd/src/main/java/com/buyme/MvcConfig.java,b\7\b73d262b4adaac3040ef4f6ddd7ea8e2b4d8d015
+{
+KBuymeCommon/src/main/java/com/buyme/common/entity/product/ProductImage.java,a\5\a512af6034d5ffc4eee197e096384adca8a1c413
+q
+ABuymeWebParent/BuymeFrontEnd/src/main/java/com/buyme/Utility.java,8\2\82fae285634f03f6f7f4e973ef9c50374fbf3d50
